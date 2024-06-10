@@ -1,14 +1,14 @@
 !Google Docs Fully Clean
-docs.google.com###dark-mode-switch
-docs.google.com##.companion-guest-app-switcher
-docs.google.com##.companion-app-switcher-guest-container
-docs.google.com##.companion-app-switcher-container
-docs.google.com##.docs-material.docs-companion-app-switcher-container
-docs.google.com##.goog-inline-block.goog-flat-menu-button
-docs.google.com##.docs-titlebar-buttons
-docs.google.com##.docs-title-inline-rename.docs-title-outer
-docs.google.com##.docs-branding-icon-documents-36.docs-branding-icon-img
-docs.google.com##.left-sidebar-container-animation.docs-ui-unprintable.left-sidebar-container
-docs.google.com###docs-bars
-docs.google.com##.left-sidebar-container-content
-docs.google.com##.docs-instant-bubble-visible.multi-button.docos-comments-pe.enable-optimized-transition.docs-material]
+||docs.google.com###dark-mode-switch
+||docs.google.com##.companion-guest-app-switcher
+||docs.google.com##.companion-app-switcher-guest-container
+||docs.google.com##.companion-app-switcher-container
+||docs.google.com##.docs-material.docs-companion-app-switcher-container
+||docs.google.com##.goog-inline-block.goog-flat-menu-button
+||docs.google.com##.docs-titlebar-buttons
+||docs.google.com##.docs-title-inline-rename.docs-title-outer
+||docs.google.com##.docs-branding-icon-documents-36.docs-branding-icon-img
+||docs.google.com##.left-sidebar-container-animation.docs-ui-unprintable.left-sidebar-container
+||docs.google.com###docs-bars
+||docs.google.com##.left-sidebar-container-content
+||docs.google.com##.docs-instant-bubble-visible.multi-button.docos-comments-pe.enable-optimized-transition.docs-material]
